@@ -1,0 +1,19 @@
+
+btones.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btnopciones
+  rotate: false
+  xy: 1, 1
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: -1
+playbtn
+  rotate: false
+  xy: 253, 1
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: -1

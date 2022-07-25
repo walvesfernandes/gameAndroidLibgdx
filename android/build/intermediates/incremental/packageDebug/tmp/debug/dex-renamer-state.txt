@@ -1,4 +1,4 @@
-#Wed Mar 02 11:35:46 CET 2022
-base.0=C\:\\Users\\lpwil\\Desktop\\nuevoJuego\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Sat May 28 18:01:06 CEST 2022
+base.0=C\:\\Users\\lpwil\\Downloads\\test\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

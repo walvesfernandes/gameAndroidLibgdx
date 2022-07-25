@@ -1,4 +1,0 @@
-int color ic_background_color 0x7f010000
-int color ic_launcher_background 0x7f010001
-int string app_name 0x7f020000
-int style GdxTheme 0x7f030000
